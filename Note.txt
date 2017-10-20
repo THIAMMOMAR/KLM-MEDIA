@@ -1,0 +1,4 @@
+
+1- afin de connecter la base de données, il faudrai ce rendre dans le dossier "config.php" et mettre les configurations de votre base de données.
+
+2- pour regler les problemes d'affichage images ce rendre dans les différents dossier "wineliste.php" et "showonewine.php" et modifier "http://localhost:8888/" par l'adresse que vous utiliser afin de vous connecter sur le projet
