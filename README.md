@@ -16,7 +16,3 @@ W est un framework minimaliste. Il suit les structures et les grand thèmes des 
 2. Naviguez vers http://localhost/nom_de_mon_projet/docs/tuto/
 
 
-#### Crédits :
-* Axel Wargnier : [@axessweb](https://github.com/axessweb) (lead dev)
-* Guillaume Sylvestre : [@gsylvestre](https://github.com/gsylvestre) (original dev)
-* Matthieu Mota : [@MatthieuMota](https://github.com/MatthieuMota)
